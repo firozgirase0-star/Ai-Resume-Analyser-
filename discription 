@@ -1,0 +1,41 @@
+🤖 ResumeAI — AI Resume Analyzer
+
+ResumeAI is a modern and responsive web application designed to analyze resumes and provide useful insights for job seekers. It features a clean AI-powered interface with resume upload, ATS scoring, skill detection, missing skill identification, job-role suggestions, and resume improvement recommendations.
+
+✨ Features
+
+- 📄 Resume upload interface
+- 📊 ATS compatibility score
+- 🧠 AI-style resume analysis
+- 💻 Detected skills
+- ⚠️ Missing skills
+- 💼 Suggested job role
+- 💡 Resume improvement recommendations
+- 📱 Fully responsive design
+- 🎨 Modern AI/SaaS-style UI
+- ⚡ Smooth animations and interactive elements
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+🚀 Future Improvements
+
+- Real AI API integration
+- PDF/DOCX text extraction
+- User authentication
+- Job description matching
+- Detailed ATS analysis
+- Downloadable analysis reports
+- Resume improvement suggestions based on specific job roles
+
+📌 Project Status
+
+Currently, this project is a frontend prototype. The AI analysis functionality is simulated and can be connected to a backend and AI API in future development.
+
+👨‍💻 Author
+
+Firoz Girase
